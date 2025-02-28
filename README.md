@@ -11,21 +11,9 @@ At Jem HR, we pride ourselves on our engineering excellence. Our team of skilled
 Our technology stack includes:
 
 - **Frontend:** React, Redux, TypeScript
-- **Backend:** Node.js, Express, MongoDB
-- **DevOps:** Docker, Kubernetes, AWS
-- **Testing:** Jest, Cypress
-
-## Contributing
-
-We welcome contributions from the community! If you're interested in contributing to Jem HR, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature or bugfix
-3. Commit your changes with clear and concise messages
-4. Push your branch to your fork
-5. Open a pull request with a detailed description of your changes
-
-Please make sure to follow our coding standards and guidelines, and ensure that your code passes all tests before submitting a pull request.
+- **Backend:** Python, Node.js, Express, MongoDB
+- **DevOps:** Docker, Kubernetes, AWS, GCP
+- **Testing:** Pytest, Jest, Cypress
 
 ## Support and Reporting Issues
 
